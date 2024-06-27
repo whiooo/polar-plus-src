@@ -1,0 +1,8 @@
+{
+  "name": "BolarKlinet",
+  "creator": "js gay",
+  "description": "Polar V2 crack",
+  "version": "2.7.3",
+  "entry": "loader.js",
+  "requires": ["requestV2", "Bloomcore", "FontLib", "RenderLib", "Async", "WebSocket"]
+}
