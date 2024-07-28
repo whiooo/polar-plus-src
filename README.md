@@ -1,6 +1,6 @@
 # Polar Client source code
 This is the original crack of Polar Client (plus version) 2.7.3 from 15/6/2024 by aload.
-:skull: :skull: :skull: Add me on discord @photo.png
+:skull: :skull: :skull:
 ## Installation
 
 1. **Download forge**: Ensure you have Minecraft Forge installed. [Download Forge](https://files.minecraftforge.net/)
